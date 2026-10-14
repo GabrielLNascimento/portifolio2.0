@@ -66,7 +66,7 @@ const Header = () => {
                     </Link>
 
                     <Link
-                        to="/projetos"
+                        to="/projects"
                         onClick={() => setMenuOpen(false)}
                         className="flex items-center gap-3 rounded-lg px-4 py-3 text-[#f5f7f6] transition-colors hover:bg-[#134647] hover:text-[#bfac8b]"
                     >
